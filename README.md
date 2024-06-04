@@ -12,7 +12,7 @@ This project illustrates the implementation of two-factor authentication (2FA) u
 # Setup to Implement 2FA
 
 ```bash
-git clone https://github.com/DevinderAgilsys/2FA
+git clone https://github.com/DevinderAgilsys/2FA.git
 ```
 
 ## 1 Choose 2FA Method
